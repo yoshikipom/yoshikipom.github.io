@@ -1,3 +1,8 @@
+# My Site
+https://yoshikipom.github.io
+
+# Template
+```
 Free Bootstrap 5 Resume/CV Template for developers
 
 Theme name:
@@ -25,4 +30,4 @@ Twitter: @3rdwave_themes
 License: 
 =======================================================================
 This template is 100% FREE as long as you keep the footer attribution link. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
-
+```
